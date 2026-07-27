@@ -1,6 +1,6 @@
 # Hi, I'm Cingiz
 
-### Data & BI Analyst | Power BI Â· SQL Â· Snowflake Â· Python
+### Data & BI Analyst | Power BI | SQL | Snowflake | Python
 
 I turn raw business data into clear dashboards, exploratory analyses, and practical recommendations. My portfolio includes executive BI reporting, employee attrition analysis, and an end-to-end cloud analytics prototype.
 
@@ -15,9 +15,9 @@ I turn raw business data into clear dashboards, exploratory analyses, and practi
 
 | Project | What it demonstrates |
 |---|---|
-| [Salifort Motors Employee Attrition EDA](https://github.com/Ginka11/Salifort-Motors-Analytics-Project) | A verifiable Python EDA across 14,999 source records, including data-quality review, attrition analysis, responsible-use guidance, and practical HR questions. |
-| [Tailwind Traders BI Dashboard](https://github.com/Ginka11/powerbi-capstone-project) | A Microsoft/Coursera Power BI capstone covering Power Query, data modeling, DAX, KPI reporting, mobile layouts, and Power BI Service. |
-| [Cookie Sales Analytics Dashboard](https://github.com/Ginka11/Retail-Sales-Analytics-Dashboard) | A sample Excel-to-Power BI workflow with relational modeling, executive reporting, inventory and feedback views, and desktop/mobile layouts. |
+| [Salifort Motors Employee Attrition EDA](https://github.com/Ginka11/salifort-employee-attrition-eda) | A verifiable Python EDA across 14,999 source records, including data-quality review, attrition analysis, responsible-use guidance, and practical HR questions. |
+| [Tailwind Traders BI Dashboard](https://github.com/Ginka11/tailwind-traders-powerbi-dashboard) | A Microsoft/Coursera Power BI capstone covering Power Query, data modeling, DAX, KPI reporting, mobile layouts, and Power BI Service. |
+| [Cookie Sales Analytics Dashboard](https://github.com/Ginka11/cookie-sales-powerbi-dashboard) | A sample Excel-to-Power BI workflow with relational modeling, executive reporting, inventory and feedback views, and desktop/mobile layouts. |
 | [Olist E-Commerce Analytics](https://github.com/Ginka11/olist-snowflake-powerbi-analytics) | A Snowflake, SQL, Python, and Power BI prototype with documented data attribution, architecture, QA limitations, and a concrete reproducibility roadmap. |
 
 ## How I Work
